@@ -1,4 +1,4 @@
-tname: Upload Website
+name: Upload Website
 
 on:
   push:
